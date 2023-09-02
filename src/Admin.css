@@ -1,0 +1,29 @@
+.content3{
+    background-color: rgb(255, 246, 165);
+    height: 500px;
+    width: 700px;
+    margin-left: 500px;
+    top:275px;
+    position: absolute;
+    text-align: left;   
+}
+.sub3{
+    background-color: rgb(255, 213, 0);
+    height: 600px;
+    width: 100%;
+    display: flex;
+}
+.login_button2 button{
+    width: 80px;
+    height: 30px;
+    font-family: Italic;
+    border-radius: 20px;
+    background-color: rgb(255, 128, 0);
+    color:  rgb(0, 0, 0);
+    font-size: 15px;
+    cursor: pointer;
+    text-transform: uppercase;
+    border: none;
+    margin-left: 200px;
+    margin-top: 10px;
+}
