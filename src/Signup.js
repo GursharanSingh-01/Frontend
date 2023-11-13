@@ -28,7 +28,7 @@ const Signup = () => {
 
     // Create a new user object
     const newUser = {
-      username: name,
+      name: name,
       email: email,
       password: password,
     };
