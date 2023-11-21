@@ -1,4 +1,4 @@
-# No Due Application
+# No Due Application(Frontend)
 
 Welcome to the No Due application, a simple and efficient solution built with React JS to manage dues seamlessly. This application provides a user-friendly interface for handling various tasks related to dues, from user authentication to status tracking.
 
